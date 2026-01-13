@@ -1,0 +1,62 @@
+.container{
+    width: 100%;  
+}
+
+.container>label{
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 600px;
+}
+
+.container>input{
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    padding: auto;
+}
+
+.container>table{
+    width: 100%;
+    border: 6px solid purple;
+    margin-top: 40px;
+}
+
+.container>table>thead{
+    font-size: 30px;
+    text-align: center;
+}
+
+th{
+    border: 5px solid purple;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.container>table>tbody>tr{
+    text-align: center;
+}
+
+td{
+    border: 4px solid purple;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+.navigation{
+    display: flex;
+    width: 100%;
+    margin-left: 50%;
+    margin-top: 20px;
+}
+
+.navigation>button{
+    background-color: blueviolet;
+    color: aliceblue;
+    font-size: 30px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+

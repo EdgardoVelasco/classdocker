@@ -1,0 +1,35 @@
+
+.container{
+    display: grid;
+}
+
+.box{
+    width: 800px;
+    background-image: url("https://pokewalls.wordpress.com/wp-content/uploads/2011/01/94gengar1920x1200.jpg");
+    background-size: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+div>div>h1{
+    font-size: 70px;
+    width: 100%;
+    color: rgb(93, 4, 145);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div>p{
+  font-size: larger;
+  font-style: italic;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div>img{
+    border: 2px solid purple;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
